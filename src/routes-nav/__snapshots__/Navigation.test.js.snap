@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot when logged out 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-w8dmq8"
+  >
+    <div
+      class="MuiBox-root css-1gsv261"
+    >
+      <div
+        class="MuiTabs-root css-1ujnqem-MuiTabs-root"
+      >
+        <div
+          class="MuiTabs-scroller MuiTabs-fixed css-jpln7h-MuiTabs-scroller"
+          style="overflow: hidden; margin-bottom: 0px;"
+        >
+          <div
+            aria-label="lab API tabs example"
+            class="MuiTabs-flexContainer css-heg063-MuiTabs-flexContainer"
+            role="tablist"
+          >
+            <a
+              aria-controls="mui-p-38185-P-1"
+              aria-current="page"
+              aria-selected="false"
+              class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1h9z7r5-MuiButtonBase-root-MuiTab-root active"
+              href="/"
+              id="mui-p-38185-T-1"
+              role="tab"
+              tabindex="-1"
+            >
+              Home
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </a>
+            <div
+              aria-controls="mui-p-38185-P-undefined"
+              class="MuiBox-root css-e5ccsp"
+              id="mui-p-38185-T-undefined"
+              textcolor="primary"
+              value="1"
+            >
+              <div
+                class="MuiBox-root css-1gsv261"
+              >
+                <div
+                  class="MuiTabs-root css-1ujnqem-MuiTabs-root"
+                >
+                  <div
+                    class="MuiTabs-scroller MuiTabs-fixed css-jpln7h-MuiTabs-scroller"
+                    style="overflow: hidden; margin-bottom: 0px;"
+                  >
+                    <div
+                      aria-label="lab API tabs example"
+                      class="MuiTabs-flexContainer css-heg063-MuiTabs-flexContainer"
+                      role="tablist"
+                    >
+                      <a
+                        aria-controls="mui-p-8629-P-1"
+                        aria-selected="false"
+                        class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1h9z7r5-MuiButtonBase-root-MuiTab-root"
+                        href="/login"
+                        id="mui-p-8629-T-1"
+                        role="tab"
+                        tabindex="-1"
+                      >
+                        Login
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </a>
+                      <a
+                        aria-controls="mui-p-8629-P-2"
+                        aria-selected="false"
+                        class="MuiButtonBase-root MuiTab-root MuiTab-textColorPrimary css-1h9z7r5-MuiButtonBase-root-MuiTab-root"
+                        href="/signup"
+                        id="mui-p-8629-T-2"
+                        role="tab"
+                        tabindex="-1"
+                      >
+                        Sign Up
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </a>
+                    </div>
+                    <span
+                      class="MuiTabs-indicator css-1aquho2-MuiTabs-indicator"
+                      style="left: 0px; width: 0px;"
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span
+            class="MuiTabs-indicator css-1aquho2-MuiTabs-indicator"
+            style="left: 0px; width: 0px;"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

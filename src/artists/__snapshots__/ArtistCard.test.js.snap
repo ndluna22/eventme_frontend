@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot with logo 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiCard-root MuiCard-vertical MuiCard-variantOutlined MuiCard-colorNeutral MuiCard-sizeMd css-ij021v-JoyCard-root"
+  >
+    <div
+      data-first-child=""
+    >
+      <p
+        class="MuiTypography-root MuiTypography-title-lg css-ar9ysw-JoyTypography-root"
+      >
+        U2
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body-sm css-n3pxpz-JoyTypography-root"
+      />
+    </div>
+    <div
+      class="MuiAspectRatio-root css-lqq0j9-JoyAspectRatio-root"
+    >
+      <div
+        class="MuiAspectRatio-content MuiAspectRatio-variantSoft MuiAspectRatio-colorNeutral css-6e7lq1-JoyAspectRatio-content"
+      >
+        <img
+          alt=""
+          data-first-child=""
+          loading="lazy"
+          src="https://pbs.twimg.com/profile_images/770491761412173826/ZUeIa4tw_400x400.jpg"
+          srcset="https://pbs.twimg.com/profile_images/770491761412173826/ZUeIa4tw_400x400.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiCardContent-root css-vpmu79-JoyCardContent-root"
+      data-last-child=""
+    >
+      <div>
+        <span
+          class="MuiTypography-root MuiTypography-body-xs css-h7h2qx-JoyTypography-root"
+        >
+          Category:
+        </span>
+        <p
+          class="MuiTypography-root MuiTypography-body-md css-1ygy07m-JoyTypography-root"
+        />
+      </div>
+      <a
+        href="/artists/K8vZ91712W7"
+      >
+        <button
+          aria-label="Explore Bahamas Islands"
+          class="MuiButton-root MuiButton-variantSolid MuiButton-colorPrimary MuiButton-sizeMd css-cb19rj-JoyButton-root"
+          type="button"
+        >
+          Explore
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`matches snapshot without logo 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiCard-root MuiCard-vertical MuiCard-variantOutlined MuiCard-colorNeutral MuiCard-sizeMd css-ij021v-JoyCard-root"
+  >
+    <div
+      data-first-child=""
+    >
+      <p
+        class="MuiTypography-root MuiTypography-title-lg css-ar9ysw-JoyTypography-root"
+      >
+        U2
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body-sm css-n3pxpz-JoyTypography-root"
+      />
+    </div>
+    <div
+      class="MuiAspectRatio-root css-lqq0j9-JoyAspectRatio-root"
+    >
+      <div
+        class="MuiAspectRatio-content MuiAspectRatio-variantSoft MuiAspectRatio-colorNeutral css-6e7lq1-JoyAspectRatio-content"
+      >
+        <img
+          alt=""
+          data-first-child=""
+          loading="lazy"
+          src="https://pbs.twimg.com/profile_images/770491761412173826/ZUeIa4tw_400x400.jpg"
+          srcset="https://pbs.twimg.com/profile_images/770491761412173826/ZUeIa4tw_400x400.jpg"
+        />
+      </div>
+    </div>
+    <div
+      class="MuiCardContent-root css-vpmu79-JoyCardContent-root"
+      data-last-child=""
+    >
+      <div>
+        <span
+          class="MuiTypography-root MuiTypography-body-xs css-h7h2qx-JoyTypography-root"
+        >
+          Category:
+        </span>
+        <p
+          class="MuiTypography-root MuiTypography-body-md css-1ygy07m-JoyTypography-root"
+        />
+      </div>
+      <a
+        href="/artists/K8vZ91712W7"
+      >
+        <button
+          aria-label="Explore Bahamas Islands"
+          class="MuiButton-root MuiButton-variantSolid MuiButton-colorPrimary MuiButton-sizeMd css-cb19rj-JoyButton-root"
+          type="button"
+        >
+          Explore
+        </button>
+      </a>
+    </div>
+  </div>
+</DocumentFragment>
+`;
